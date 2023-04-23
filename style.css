@@ -11,7 +11,7 @@ body {
   background-color: var(--light_gray);
 }
 
-.container {
+main {
   min-height: 100%;
   display: flex;
   justify-content: center;
